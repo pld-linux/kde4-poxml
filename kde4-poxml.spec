@@ -9,12 +9,12 @@
 Summary:	An xml2po and vice versa converters
 Summary(pl.UTF-8):	Konwertery po2xml i vice versa
 Name:		kde4-%{orgname}
-Version:	4.12.1
+Version:	4.12.2
 Release:	1
 License:	GPL
 Group:		X11/Development/Tools
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	a49598648817efa8989a4128f041fd10
+# Source0-md5:	943fb053128f0a8d0ea9b41d6ee05437
 URL:		http://www.kde.org/
 BuildRequires:	QtNetwork-devel >= %{qtver}
 BuildRequires:	QtScriptTools-devel >= %{qtver}
